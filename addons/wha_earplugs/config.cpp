@@ -19,13 +19,13 @@ class CfgFunctions
 			class preInit
 			{
 				preInit = 1;
-				file = 'wh\addons\ep\preinit.sqf';
+				file = "wh\addons\ep\preinit.sqf";
 			};
 			// call the function upon mission start, after objects are initialized.
 			class postInit
 			{
 				postInit = 1;
-				file = 'wh\addons\ep\postinit.sqf';
+				file = "wh\addons\ep\postinit.sqf";
 			};
 		};
 	};
