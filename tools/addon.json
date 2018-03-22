@@ -1,0 +1,10 @@
+{
+    "metadata" : 
+    {
+        "name" : "WHA Earplugs",
+        "working-directory" : "..\\",
+        "addon-dir" : "addons\\",
+        "release-dir" : "release\\"
+    },
+    "copy-directories": []
+}
